@@ -2,3 +2,4 @@ https://www.cve.org/CVERecord?id=CVE-2026-25951
 https://www.cve.org/CVERecord?id=CVE-2026-26217
 https://nvd.nist.gov/vuln/detail/CVE-2026-24061
 https://www.cve.org/CVERecord?id=CVE-2025-55182
+https://www.cve.org/CVERecord?id=CVE-2026-25765
